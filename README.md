@@ -1,4 +1,4 @@
-[![Netlify Status](https://img.shields.io/netlify/1dd079?style=for-the-badge&color=00C7B7)](https://curious-palmier-1dd079.netlify.app/)
+[![Netlify Status](https://img.shields.io/netlify/d3a78b96-bff4-4027-932a-9cf4762b6e54?style=for-the-badge&color=00C7B7)](https://curious-palmier-1dd079.netlify.app/)
 
 ## 📸 프로젝트 미리보기
 ![main page screenshot](./images/Starbucks-Project-main.png)
